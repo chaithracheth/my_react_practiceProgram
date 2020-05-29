@@ -1,0 +1,30 @@
+.addButton-style
+{
+  color: white;
+    margin: 0px 91px 0px 0px;
+    border: 3px solid #53b255;
+    border-radius: 50px;
+    background-color: #53b255;
+    width: 172px;
+    height: 39px;
+    font-weight: bolder;
+    float: right;
+}
+.deleteButton-Style
+{
+  margin: 2px 8px -0px 0px;
+  border: 3px solid #d6524c;
+  color: white;
+  border-radius: 50px;
+  background-color: #d6524c;
+  width: 100px;
+  height: 39px;
+  font-weight: bolder;
+  float: right;
+}
+.addButtton
+{color: white;
+   float:right;
+    width: 300px;
+    height: 100px;
+  }

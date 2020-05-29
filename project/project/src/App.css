@@ -1,0 +1,30 @@
+:root{
+  --mainBlue:#2a2a72;
+  --lightBlue:#009ffd;
+  --mainWhite:#f3f3f3;
+  --mainYellow:#ffa400;
+  --mainDark:#232528;
+
+}
+
+body{
+  font-family: 'Oswald', sans-serif  !important;
+  background: var(--mainWhite) !important;
+  color: var(--mainDark);
+}
+
+.text--tittle
+{
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+
+.text--blue
+{
+  color: var(--mainBlue);
+}
+.tect--bright
+{
+  color: var(--mainBlue);
+}

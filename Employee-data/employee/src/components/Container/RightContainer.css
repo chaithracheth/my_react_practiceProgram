@@ -1,0 +1,17 @@
+.rightContiner-employe-details
+{
+  height: 100%;
+  overflow: auto;
+  text-align: center;
+  width: 50%;
+  background-color: #001f3f;
+}
+.rightContiner-employee
+{
+  border-bottom: 1px solid white;
+    color: yellow;
+    margin: 0px 25px 0px 34px;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}

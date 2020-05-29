@@ -1,0 +1,54 @@
+.companyNameWrapper
+{
+margin: 13px 0px 0px 0px;
+  width: 100%;
+  height: 45px;
+}
+.company-name
+{
+  margin: 0px 102px 0px -250px;
+  font-weight: bolder;
+  display: inline-block;
+  color: black;
+  font-size: 23px;
+  width: 233px;
+  background-color: bisque;
+}
+.userName-style
+{
+  color: red;
+    display: inline-block;
+    margin: 2px 0px 0px -80px;
+    font-size: 26px;
+    background-color: black;
+    border-radius: 34px;
+    font-weight: bold;
+    font-style: italic;
+}
+.right-Continer-display
+{
+  border-radius: 36px;
+  margin: 9px 0px 31px 93px;
+    border: 2px solid black;
+    width: 445px;
+    height: 130px;
+    background-color: white;
+  color: white;
+  font-size: 16px;
+}
+.userDisplay-Wrapper
+{
+  width: 65%;
+  height: 70px;
+  display: inline-block;
+  margin: 16px 0px 0px 4px;
+}
+.userInformation-display
+{
+  color: black;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    display: inline-block;
+    float: left;
+}
